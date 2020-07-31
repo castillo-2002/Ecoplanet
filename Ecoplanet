@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+ <html lang="es">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Ecoplanet</title>
+     <link rel="shortcut icon" href="img/globo.png" type="image/x-icon">
+     <link rel="stylesheet" href="  css/estilo.css">
+     <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet"> 
+ </head>
+ <body>
+     <header>
+         <nav>
+             <a herf="#">Inicio</a>
+             <a herf="#">Galeria</a>
+             <a herf="#">Graficas</a>
+         </nav>
+         <section class="textos-header">
+             <h1>Colegio Bautista Internacional de Sonsonate</h1>
+             <h2>ECOPLANET</h2>
+         </section>
+         <div class="here" style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-0.00,49.91 C150.00,149.77 349.20,-49.92 500.00,49.91 L500.00,149.77 L-0.00,149.77 Z" style="stroke: none; fill: #f57c00;"></path>
+        </svg></div>
+     </header>
+     <main>
+         <section class="contenedor sobre-nosotros">
+             <h2 class="titulo">Nuestro servicios</h2>
+             <div class="contenedor-sobre-nosotros">
+                 <img src="img/señor.png" alt="" class="imagen-alusiva">
+                 <div class="contenido-textos">
+                     <h3><span>1</span>Proyecto</h3>
+                     <p>Ecoplanet es un proyecto en pro del medio ambiente diseñado para limpiar zonas de nuestro país y ayudar a reciclar, rechazar, reutilizar y producir la basura para que no dañe nuestro medio ambiente</p>
+                 </div>
+             </div>
+         </section>
+         <section class="produccion">
+             <div class="contenedor">
+                 <h2 class="titulo">Produccion</h2>
+                 <div class="galeria-prod">
+                    <div class="imagen-prod">
+                        <img src="img/resiclaje1.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/dedo.png" alt="">
+                            <p>trabajo</p>
+                        </div>
+                    </div>
+                    <div class="imagen-prod">
+                        <img src="img/resiclaje2.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/dedo.png " alt="">
+                            <p>trabajo</p>
+                        </div>
+                    </div>
+                    <div class="imagen-prod">
+                        <img src="img/resiclaje3.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/dedo.png " alt="">
+                            <p>trabajo</p>
+                        </div>
+                    </div>
+                    <div class="imagen-prod">
+                        <img src="img/resiclaje4.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/dedo.png" alt="">
+                            <p>trabajo</p>
+                        </div>
+                    </div>
+                    <div class="imagen-prod">
+                        <img src="img/resiclaje5.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/dedo.png" alt="">
+                            <p>trabajo</p>
+                        </div>
+                    </div>
+                    <div class="imagen-prod">
+                        <img src="img/resiclaje6.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/dedo.png" alt="">
+                            <p>trabajo</p>
+                        </div>
+                    </div>
+                    <div class="imagen-prod">
+                        <img src="img/resiclaje7.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/dedo.png" alt="">
+                            <p>trabajo</p>
+                        </div>
+                    </div>
+                    <div class="imagen-prod">
+                        <img src="img/resiclaje8.jpg" alt="">
+                        <div class="hover-galeria">
+                            <img src="img/dedo.png" alt="">
+                            <p>trabajo</p>
+                        </div>
+                    </div>           
+                 </div>
+             </div>
+         </section>
+     </main>    
+ </body>
+ </html>
